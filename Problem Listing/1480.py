@@ -1,5 +1,5 @@
-// https://leetcode.com/problems/running-sum-of-1d-array/
-// 57 ms, 14 MB
+# https://leetcode.com/problems/running-sum-of-1d-array/
+# 57 ms, 14 MB
 
 class Solution:
     def runningSum(self, nums: List[int]) -> List[int]:
