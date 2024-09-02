@@ -1,4 +1,4 @@
 # My-Leetcode-Python-Solutions
 My Leetcode problem solutions written in Python.
 
-Python seems like the most useful language for leetcode and interview questions in general due do its ability to transfer pseudo-code to actual code with the least amount of headaches and overhead, ideal in such time-limited situations, without having to worry about its drawbacks such as scalability.
+I find Python one of the most useful languages for leetcode problems due do its simplicity and lack of overhead compared to more verbose languages, ideal for use cases where properties such as scalability and performance are not necessarily needed.
