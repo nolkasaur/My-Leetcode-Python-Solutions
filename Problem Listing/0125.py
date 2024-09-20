@@ -1,5 +1,5 @@
 # https://leetcode.com/problems/valid-palindrome/
-# 52 ms, 21.81 MB
+# 54 ms, 21.81 MB
 
 class Solution:
     def isPalindrome(self, s: str) -> bool:
