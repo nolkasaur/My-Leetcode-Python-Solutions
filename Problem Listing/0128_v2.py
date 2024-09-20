@@ -1,5 +1,5 @@
 # https://leetcode.com/problems/longest-consecutive-sequence/
-# 357 ms, 34.94 MB
+# 345 ms, 31.85 MB
 
 class Solution:
     def longestConsecutive(self, nums: List[int]) -> int:
