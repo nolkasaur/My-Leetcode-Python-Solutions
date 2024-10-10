@@ -1,5 +1,5 @@
 # https://leetcode.com/problems/remove-nth-node-from-end-of-list/
-# 43 ms, 16.60 MB
+# 39 ms, 16.43 MB
 
 # Definition for singly-linked list.
 # class ListNode:
@@ -12,7 +12,7 @@ class Solution:
         slow, fast = dummy, head
         for i in range(n-1):
             fast = fast.next
-        while fast and fast.next:
+        while fast.next:
             slow = slow.next
             fast = fast.next
         slow.next = slow.next.next
